@@ -1,0 +1,18 @@
+.red {
+    background-color: rgb(255, 105, 105);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fsize {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(105, 255, 105);
+    font-weight: bold;
+}
+
+#second {
+    font-size: 36px;
+    color: rgb(0,0,255);
+}
